@@ -183,7 +183,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:0,Kolkata Bangla
 https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
 #EXTINF:0,News 18 Bangla
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&amp;rebase=on&amp;hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:0,Zee 24 Ghonta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
 #EXTINF:0, Bangla Time
@@ -243,7 +243,7 @@ http://cdn.ihub.live:8080/live/star_gold/chunks.m3u8
 #EXTINF:-1,STAR GOLD 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1,Star Gold Select HD
-http://tv.ebox.live:8080/live/star-gold-select.m3u8
+http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1, & Picture
 http://103.141.66.36/bpk-tv/10190/default/manifest.mpd
 #EXTINF:-1, & Picture HD
@@ -338,8 +338,8 @@ https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:0,Star World HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:0,MN Plus
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:0,MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:0,Romedy Now
 http://tvserver.roarzone.info:8082/138/index.m3u8
 #EXTINF:0,Colors Infinity HD
@@ -463,24 +463,28 @@ http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 #EXTINF:-1, Sony Six HD
 http://103.141.66.36/bpk-tv/10480/default/manifest.mpd
 #EXTINF:0,STAR SPOTRS SELECT 1 HD
-#EXTGRP:Sports
-http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
+http://43.230.123.21:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,STAR SPOTRS SELECT 2 HD
-#EXTGRP:Sports
 http://tvserver.roarzone.info:8082/63/index.m3u8
 #EXTINF:0,STAR SPOTRS 1 HD
 http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:0,STAR SPOTRS 1 HD Hindi
+http://43.230.123.21:8080/live/starsports-1-hind.m3u8
+#EXTINF:0,STAR SPOTRS 2
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:0,STAR SPOTRS 2 HD
 http://tvserver.roarzone.info:8082/61/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:0,Ptv Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
 #EXTINF:0,WILLOW CRICKET HD
-http://tv.ebox.live:8080/live/willow-cric.m3u8
+http://43.230.123.21:8080/live/willow-cric.m3u8
 #EXTINF:0,Sky Sports Cricket HD
-http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
+http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,OSN SPORTS
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:0,D Sports
@@ -533,6 +537,10 @@ https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 #EXTINF:0,Bein Sports
 #EXTGRP:Sports
 http://tvserver.roarzone.info:8082/73/index.m3u8
+#EXTINF:-1,Bean Sports 2
+http://43.230.123.21:8080/live/bein-sports-2.m3u8
+#EXTINF:-1,Bein Sports 11
+http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:0,Sky Sports F1
 #EXTGRP:Sports
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
