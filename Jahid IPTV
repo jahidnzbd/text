@@ -34,6 +34,8 @@ http://103.141.66.36/bpk-tv/10256/default/manifest.mpd
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1, RTV
 http://103.141.66.36/bpk-tv/10257/default/manifest.mpd
+#EXTINF:-1, RTV HD
+https://bracnet.iptv.jadoodigital.com:443/live/rtv/chunks.m3u8
 #EXTINF:-1, ATN
 http://103.141.66.36/bpk-tv/10009/default/manifest.mpd
 #EXTINF:-1, Channel i HD
