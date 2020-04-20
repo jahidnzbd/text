@@ -177,19 +177,16 @@ http://103.141.66.36/bpk-tv/10181/default/manifest.mpd
 #EXTINF:-1, R plus
 http://103.141.66.36/bpk-tv/10078/default/manifest.mpd
 #EXTINF:0,APB Ananda
-#EXTGRP:Bangla News
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:0,Kolkata Bangla
-#EXTGRP:Bangla News
 https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
 #EXTINF:0,News 18 Bangla
-#EXTGRP:Bangla News
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&amp;rebase=on&amp;hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:0,Zee 24 Ghonta
-#EXTGRP:Bangla News
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:0, Bangla Time
+http://103.205.133.19/hls/banglatime.m3u8?token=RPMq1s9xpJcmb4xc63jp_w.m3u8
 #EXTINF:0,TBN 24
-#EXTGRP:Bangla News
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1, DD Bangla
 http://103.141.66.36/bpk-tv/10336/default/manifest.mpd
@@ -267,6 +264,8 @@ http://103.141.66.36/bpk-tv/10108/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10331/default/manifest.mpd
 #EXTINF:-1, B4U Kadak
 http://103.141.66.36/bpk-tv/10312/default/manifest.mpd
+#EXTINF:-1, B4U +
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1, Dabang
 http://103.141.66.36/bpk-tv/10301/default/manifest.mpd
 #EXTINF:-1, Monorangan TV
