@@ -462,8 +462,12 @@ http://tv.ebox.live:8080/live/sonyten-3.m3u8
 http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 #EXTINF:-1, Sony Six HD
 http://103.141.66.36/bpk-tv/10480/default/manifest.mpd
+#EXTINF:0,STAR SPOTRS 1
+http://103.115.159.37:8080/starsp1/index.m3u8
 #EXTINF:0,STAR SPOTRS SELECT 1 HD
 http://43.230.123.21:8080/live/starsportsselect-1.m3u8
+#EXTINF:0,STAR SPOTRS 2
+http://103.115.159.37:8080/starsp2/index.m3u8
 #EXTINF:0,STAR SPOTRS SELECT 2 HD
 http://tvserver.roarzone.info:8082/63/index.m3u8
 #EXTINF:0,STAR SPOTRS 1 HD
