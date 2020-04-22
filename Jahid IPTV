@@ -489,8 +489,10 @@ http://stream-7b694ce7e.nmbs.top/m3u/Sports/0efcfab087.m3u8
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
-#EXTINF:0,WILLOW CRICKET HD
-http://43.230.123.21:8080/live/willow-cric.m3u8
+#EXTINF:-1,WILLOW CRICKET HD
+http://ok2.se:8000/c59dF1UiV9pSByA5C/ef38F1UUEFlTMbQH9/198
+#EXTINF:-1,WILLOW XTRA HD
+http://ok2.se:8000/c59dF1UiV9pSByA5C/ef38F1UUEFlTMbQH9/9630
 #EXTINF:0,Sky Sports Cricket HD
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,OSN SPORTS
