@@ -11,7 +11,7 @@ http://103.141.66.36/bpk-tv/10036/default/manifest.mpd
 #EXTINF:-1, Gazi TV HD
 http://103.141.66.36/bpk-tv/10328/default/manifest.mpd
 #EXTINF:-1, Gazi TV HD
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1, Masranga HD
 http://103.141.66.36/bpk-tv/10154/default/manifest.mpd
 #EXTINF:-1, Channel 9
@@ -30,6 +30,8 @@ http://103.141.66.36/bpk-tv/10037/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10008/default/manifest.mpd
 #EXTINF:-1, DBC News
 http://103.141.66.36/bpk-tv/10256/default/manifest.mpd
+#EXTINF:-1, DBC News
+http://175.41.46.16:8081/hls/5.m3u8
 #EXTINF:-1, News 24
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1, RTV
