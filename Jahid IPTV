@@ -464,37 +464,30 @@ http://tv.ebox.live:8080/live/sonyten-3.m3u8
 http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 #EXTINF:-1, Sony Six HD
 http://103.141.66.36/bpk-tv/10480/default/manifest.mpd
+#EXTINF:0,STAR SPOTRS SELECT 1 HD
+http://103.214.202.218:8081/live/select1/chunks.m3u8
+#EXTINF:0,STAR SPOTRS SELECT 1 HD
+http://103.115.159.37:8080/starsportsselect1/index.m3u8
+#EXTINF:0,STAR SPOTRS SELECT 2 HD
+http://103.214.202.218:8081/live/select1/chunks.m3u8
 #EXTINF:0,STAR SPOTRS 1
 http://103.115.159.37:8080/starsp1/index.m3u8
-#EXTINF:0,STAR SPOTRS SELECT 1 HD
-http://43.230.123.21:8080/live/starsportsselect-1.m3u8
-#EXTINF:0,STAR SPOTRS 2
-http://103.115.159.37:8080/starsp2/index.m3u8
-#EXTINF:0,STAR SPOTRS SELECT 2 HD
-http://tvserver.roarzone.info:8082/63/index.m3u8
-#EXTINF:0,STAR SPOTRS 1 HD
-http://tv.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:0,STAR SPOTRS 1 HD Hindi
-http://43.230.123.21:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,STAR SPOTRS 2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:0,STAR SPOTRS 2 HD
-http://tvserver.roarzone.info:8082/61/index.m3u8
+#EXTINF:0,STAR SPOTRS 2
+http://103.115.159.37:8080/starsp2/index.m3u8
 #EXTINF:-1,Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
 #EXTINF:0,Ptv Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:0, Geo Super
 http://stream-7b694ce7e.nmbs.top/m3u/Sports/0efcfab087.m3u8
-http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Ten Sports PK
 http://43.230.123.21:8080/live/ten-sports.m3u8
 #EXTINF:-1,WILLOW CRICKET HD
 http://ok2.se:8000/c59dF1UiV9pSByA5C/ef38F1UUEFlTMbQH9/198
 #EXTINF:-1,WILLOW XTRA HD
 http://ok2.se:8000/c59dF1UiV9pSByA5C/ef38F1UUEFlTMbQH9/9630
-#EXTINF:0,Sky Sports Cricket HD
-http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,OSN SPORTS
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:0,D Sports
@@ -544,49 +537,6 @@ https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
 #EXTINF:0,BT Sports-2
 #EXTGRP:Sports
 https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
-#EXTINF:0,Bein Sports
-#EXTGRP:Sports
-http://tvserver.roarzone.info:8082/73/index.m3u8
-#EXTINF:-1,Bein Sport 1HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/1
-#EXTINF:-1,Bein Sport 2HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/2
-#EXTINF:-1,Bein Sport 3HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/3
-#EXTINF:-1,Bein Sport 4HD
-http://irmgafah.ddns.net:25461/Ppp1/hd8t7FVrCq/4
-#EXTINF:-1,BEIN SPORT 01 ID
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/60
-#EXTINF:-1,BEIN SPORT 02 ID
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/61
-#EXTINF:-1,BEIN SPORT 01
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/62
-#EXTINF:-1,BEIN SPORT 02
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/63
-#EXTINF:-1,BEIN SPORT 03
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/64
-#EXTINF:-1,BEIN SPORT 04
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/65
-#EXTINF:-1,BEIN SPORT 05
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/66
-#EXTINF:-1,BEIN SPORT 06
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/67
-#EXTINF:-1,BEIN SPORT 07
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/68
-#EXTINF:-1,BEIN SPORT 08
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/69
-#EXTINF:-1,BEIN SPORT 09
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/70
-#EXTINF:-1,BEIN SPORT 10
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/71
-#EXTINF:-1,BEIN SPORT 11
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/72
-#EXTINF:-1,BEIN SPORT 12
-http://iptv.urfan.web.id:25461/wz4ZYHUUnK/8cXExiCVOQ/73
-#EXTINF:-1,Bean Sports 2
-http://43.230.123.21:8080/live/bein-sports-2.m3u8
-#EXTINF:-1,Bein Sports 11
-http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:0,Sky Sports F1
 #EXTGRP:Sports
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
