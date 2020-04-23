@@ -463,7 +463,7 @@ http://103.141.66.36/bpk-tv/10479/default/manifest.mpd
 #EXTINF:-1,SONY TEN 3
 http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 #EXTINF:-1, Ten 3 HD
-http://tv.ebox.live:8080/live/sonyten-3.m3u8
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1,SONY SIX
 http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 #EXTINF:-1, Sony Six HD
