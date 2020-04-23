@@ -231,7 +231,7 @@ http://103.141.66.36/bpk-tv/10091/default/manifest.mpd
 #EXTINF:-1,SONY MAX
 http://103.205.133.42:1935/local/sony_max_720/index.m3u8
 #EXTINF:-1,SONY MAX HD
-http://103.107.160.35:8081/live/sonymax/chunks.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,SONY MAX HD Link 1
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
 #EXTINF:-1, Sony Max HD Link 2
@@ -315,7 +315,7 @@ http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 http://103.205.133.42:1935/local/sony_pix_720/index.m3u8
 #EXTINF:0,SONY PIX HD
 #EXTGRP:English Movie
-http://tv.ebox.live:8080/live/sony-pix.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:0,Lotus Macau
 #EXTGRP:English Movie
 https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
