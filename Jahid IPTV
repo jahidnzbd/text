@@ -351,6 +351,8 @@ http://tvserver.roarzone.info:8082/138/index.m3u8
 #EXTINF:0,Colors Infinity HD
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:0,AXN HD
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:0,AXN HD
 http://103.115.159.37:8080/axn/tracks-v1a1/mono.m3u8
 #EXTINF:0,AXN HD
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
@@ -398,6 +400,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:0,Sony BBC Earth HD
 http://103.205.133.42:1935/local/sony_bbc_earth_hd_720/index.m3u8
+#EXTINF:0,Sony BBC Earth HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,FYI TV18 HD
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1,HISTORY TV HD
