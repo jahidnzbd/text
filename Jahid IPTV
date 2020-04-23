@@ -325,6 +325,12 @@ http://103.205.133.42:1935/local/lotus_720/index.m3u8
 http://103.115.159.37:8080/hbohits/tracks-v1a1/mono.m3u8
 #EXTINF:0,Movies Now HD
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1,Romedy Now
+http://103.214.202.218:8081/live/romedynow/chunks.m3u8
+#EXTINF:-1,MBC Movies
+http://103.214.202.218:8081/live/mbc-movie/playlist.m3u8
+#EXTINF:-1,MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
 #EXTINF:0,TV5 Monde
 #EXTGRP:English Movie
 http://103.205.133.42:1935/local/tv5_monde_720/index.m3u8
@@ -472,7 +478,7 @@ http://103.214.202.218:8081/live/select1/chunks.m3u8
 #EXTINF:0,STAR SPOTRS SELECT 1 HD
 http://103.115.159.37:8080/starsportsselect1/index.m3u8
 #EXTINF:0,STAR SPOTRS SELECT 2 HD
-http://103.214.202.218:8081/live/select1/chunks.m3u8
+http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:0,STAR SPOTRS 1
 http://103.115.159.37:8080/starsp1/index.m3u8
 #EXTINF:0,STAR SPOTRS 2
